@@ -7,6 +7,7 @@
         <foaf:nick>RM</foaf:nick>
         <foaf:member>BTS</foaf:member>
         <foaf:birthday>12 September 1994</foaf:birthday>
+        <foaf:img>https://i.ibb.co/vD3cy6f/rm.jpg</foaf:img>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://kepoper.com/biodata-profil-dan-fakta-lengkap-jin/">
@@ -15,6 +16,7 @@
         <foaf:nick>Jin</foaf:nick>
         <foaf:member>BTS</foaf:member>
         <foaf:birthday>4 Desember 1992</foaf:birthday>
+        <foaf:img>https://i.ibb.co/LJ4Dc1J/jin.jpg</foaf:img>
     </rdf:Description>    
 
     <rdf:Description rdf:about="https://kepoper.com/biodata-profil-dan-fakta-lengkap-suga/">
@@ -23,6 +25,7 @@
         <foaf:nick>Suga</foaf:nick>
         <foaf:member>BTS</foaf:member>
         <foaf:birthday>9 Maret 1993</foaf:birthday>
+        <foaf:img>https://i.ibb.co/M7BNZCV/suga.jpg</foaf:img>
     </rdf:Description>    
 
     <rdf:Description rdf:about="https://kepoper.com/biodata-profil-dan-fakta-lengkap-j-hope/">
@@ -31,6 +34,7 @@
         <foaf:nick>J-Hope</foaf:nick>
         <foaf:member>BTS</foaf:member>
         <foaf:birthday>18 Februari 1994</foaf:birthday>
+        <foaf:img>https://i.ibb.co/sHtgmht/jhope.jpg</foaf:img>
     </rdf:Description>    
 
     <rdf:Description rdf:about="https://kepoper.com/biodata-profil-dan-fakta-lengkap-jimin/">
@@ -39,6 +43,7 @@
         <foaf:nick>Jimin</foaf:nick>
         <foaf:member>BTS</foaf:member>
         <foaf:birthday>13 Oktober 1995</foaf:birthday>
+        <foaf:img>https://i.ibb.co/BtYvsmp/jimin.jpg</foaf:img>
     </rdf:Description>    
 
     <rdf:Description rdf:about="https://kepoper.com/biodata-profil-dan-fakta-lengkap-v/">
@@ -47,6 +52,7 @@
         <foaf:nick>V</foaf:nick>
         <foaf:member>BTS</foaf:member>
         <foaf:birthday>30 Desember 1995</foaf:birthday>
+        <foaf:img>https://i.ibb.co/7rrVNHB/taehyung.jpg</foaf:img>
     </rdf:Description>    
     
     <rdf:Description rdf:about="https://kepoper.com/biodata-profil-dan-fakta-lengkap-jungkook/">
@@ -55,6 +61,7 @@
         <foaf:nick>Jungkook</foaf:nick>
         <foaf:member>BTS</foaf:member>
         <foaf:birthday>1 September 1997</foaf:birthday>
+        <foaf:img>https://i.ibb.co/tHbyBdK/jk.jpg</foaf:img>
     </rdf:Description>    
 
 </rdf:RDF>
