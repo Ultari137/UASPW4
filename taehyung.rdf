@@ -1,0 +1,13 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:foaf="http://xmlns.com/foaf/spec/">  
+
+    <rdf:Description rdf:about="https://kepoper.com/biodata-profil-dan-fakta-lengkap-v/">
+        <foaf:name>Kim Tae Hyung</foaf:name>
+        <foaf:familyName>Kim</foaf:familyName>
+        <foaf:nick>V</foaf:nick>
+        <foaf:member>BTS</foaf:member>
+        <foaf:birthday>30 Desember 1995</foaf:birthday>
+        <foaf:img>https://i.ibb.co/7rrVNHB/taehyung.jpg</foaf:img>
+    </rdf:Description>    
+ 
+</rdf:RDF>

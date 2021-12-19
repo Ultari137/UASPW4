@@ -1,0 +1,13 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:foaf="http://xmlns.com/foaf/spec/">
+
+    <rdf:Description rdf:about="https://kepoper.com/biodata-profil-dan-fakta-lengkap-suga/">
+        <foaf:name>Min Yoon Gi</foaf:name>
+        <foaf:familyName>Min</foaf:familyName>
+        <foaf:nick>Suga</foaf:nick>
+        <foaf:member>BTS</foaf:member>
+        <foaf:birthday>9 Maret 1993</foaf:birthday>
+        <foaf:img>https://i.ibb.co/M7BNZCV/suga.jpg</foaf:img>
+    </rdf:Description>    
+
+</rdf:RDF>

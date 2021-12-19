@@ -1,0 +1,13 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:foaf="http://xmlns.com/foaf/spec/">
+    
+    <rdf:Description rdf:about="https://kepoper.com/biodata-profil-dan-fakta-lengkap-jungkook/">
+        <foaf:name>Jeon Jeong-Guk</foaf:name>
+        <foaf:familyName>Jeon</foaf:familyName>
+        <foaf:nick>Jungkook</foaf:nick>
+        <foaf:member>BTS</foaf:member>
+        <foaf:birthday>1 September 1997</foaf:birthday>
+        <foaf:img>https://i.ibb.co/tHbyBdK/jk.jpg</foaf:img>
+    </rdf:Description>    
+
+</rdf:RDF>
